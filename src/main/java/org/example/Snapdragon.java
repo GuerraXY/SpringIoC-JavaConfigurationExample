@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class Snapdragon implements MobileProcessor{
 
     public void process() {
-        System.out.println("A great CPU");
+        System.out.println("Snapdragon processor");
     }
 
 }
